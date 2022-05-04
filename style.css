@@ -1,0 +1,224 @@
+body{
+	font-family: "PT Sans", sans-serif;
+	font-family: 'Noto Sans', sans-serif;
+	background: #efefef;
+	margin: 0;
+}
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+
+.navbar strong ul li a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.firstdiv{
+	background: url('https://jolly-kalam-23776e.netlify.app/mytunes/img/showcase.jpeg') no-repeat center/cover;
+	height: 700px;
+	text-align: center;
+	padding: 1.5rem;
+
+}
+
+#mytune{
+	padding: 50px;
+	margin: 90px;
+	height: 500px;
+}
+
+.textcolor{
+	color: #fff;
+}
+
+h2.textcolor{
+	font-size: 2.5rem;
+}
+
+h3.textcolor{
+	font-size: 2rem;
+}
+
+.textformat{
+	font-size: 1.3rem;
+	font-weight: bold;
+	line-height: 1.6;
+	
+	
+    
+
+}
+
+.linkstyle{
+	background: #b90415;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 30px;
+	
+}
+
+.linkstyle:hover {background-color: #ca0500;}
+
+.linkbutton{
+	padding: 40px;
+}
+
+.background2{
+	background: #252529;
+	text-align: center;
+	padding: 1.5rem;
+}
+
+.textformat{
+	letter-spacing: 2px;
+}
+
+h1.textformat{
+	font-size: 45px;
+	
+	
+}
+
+p.textformat{
+	font-size: 29px;
+}
+
+.readmore{
+	text-decoration: none;
+	color: #fff;
+	font-size: 20px;
+	
+}
+
+.readmo{
+	text-align: center;
+	background: #103063;
+	padding: 27px;
+	margin-left: 589px;
+	margin-right: 589px;
+	margin-top: 10px;
+	
+	
+}
+
+.music{
+	text-align: center;
+	
+}
+
+#imgmusic{
+	padding-left: 72px;
+}
+
+.awoe{
+	text-align: center;
+	background: url('https://jolly-kalam-23776e.netlify.app/mytunes/img/section-bg.jpeg');
+	padding: 10rem 0;
+	color: #fff;
+	
+	
+	font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 33px;
+letter-spacing: 0.06em;
+	
+	
+	
+}
+
+.awoe h3{
+	font-size: 1.9rem;
+}
+
+.giftcard{
+	display: grid;
+	grid-gap: 30px;
+	grid-template-columns: repeat(2, 2fr);
+	padding: 2rem;
+	text-align: left;
+	font-size:;
+}
+
+#card img{
+	width: 98%;
+	height: 98%;
+}
+
+p strong{
+	font-size: 22px;
+	line-height: 2;
+}
+
+ul li{
+	list-style-type: none;
+}
+
+#footlist li a{
+	text-decoration: none;
+	color: #ccc;
+	font-size: 14px;
+	line-height: 0%;
+	
+}
+
+.footsubsec h3{
+	color: #fff;
+	font-weight: 100px;
+	
+}
+
+.footsubsec hr{
+	width: auto;
+        height: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #b7d0e2;
+}
+
+#firstfoot{
+	display: grid;
+	grid-gap: 30px;
+	grid-template-columns: repeat(4, 2fr);
+	padding: 2rem;
+	text-align: left;
+	font-size:;
+	
+	
+	/*
+	width: 100%;
+    height: auto;
+    margin: 33px auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+	background: black;
+	*/
+}
+
+.container{
+	max-width: auto;
+	margin: 0 auto;
+	padding: 0 3rem;
+	background: hsl(240, 5%, 18%);
+}
+
+#footer-copy {
+	background: #333;
+	text-align: center;
+	display: block;
+	padding: 0.5rem;
+	color: #fff;
+	font-size: 23px;
+	
+}
