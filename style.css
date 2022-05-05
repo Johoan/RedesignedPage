@@ -1,7 +1,7 @@
 body{
 	font-family: "PT Sans", sans-serif;
 	font-family: 'Noto Sans', sans-serif;
-	background: #efefef;
+	background: #f4f4f4;
 	margin: 0;
 }
 .navbar {
@@ -111,7 +111,7 @@ p.textformat{
 	
 }
 
-.music{
+#video{
 	text-align: center;
 	
 }
@@ -153,6 +153,12 @@ letter-spacing: 0.06em;
 #card img{
 	width: 98%;
 	height: 98%;
+}
+
+#redeem{
+	text-decoration: none;
+	font-weight: bold;
+	color: #103063;
 }
 
 p strong{
